@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Docker+ Tomcat</title>
+<title> Maven + Docker + Tomcat</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -42,13 +42,15 @@
 		<div class="col-md-8">
 			<h2>Welcome To Jenkins CICD Project</h2>
 			<h3>Used Tools Like Docker, Tomcat......</h3>
+			<h4> Project Given by Greens.....</h4>
+			<h5> Thank you...!...</h5>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Pipeline Technology 2022</p>
+		<p>&copy; Pipeline Technology Pvt Ltd 2022</p>
 	</footer>
 </div>
 
